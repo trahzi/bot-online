@@ -2,7 +2,7 @@
 Using this code you can keep your discord bot online 24/7 as long as the command prompt is open. Fully open sourced
 
 
-# Make your you..
+# Make sure you..
 Go in command prompt and type "pip install discord" and press enter before running the bat file.
 
 Dont say you made it, so dont skid.
